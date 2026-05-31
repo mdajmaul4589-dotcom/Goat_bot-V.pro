@@ -3,7 +3,7 @@
   <img src="https://i.ibb.co/d4Brrz06/image0.jpg" width="100%" />
 </p>
 
-<h1 align="center">✨ Goat_bot-V.pro ✨</h1>
+<h1 align="center">✨  Goat_bot-V.pro ✨</h1>
 <h3 align="center">💎 𝗠𝗢𝗗𝗜𝗙𝗜𝗘𝗗 𝗕𝗬 Ajmaul 💎</h3>
 
 <p align="center">
