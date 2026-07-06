@@ -1,168 +1,213 @@
-<!-- 🔥 TOP BANNER -->
-<p align="center">
-  <img src="https://i.ibb.co/d4Brrz06/image0.jpg" width="100%" />
-</p>
-
-<h1 align="center">✨ 𝐆𝐎𝐀𝐓-Bot-V2 ✨</h1>
-<h3 align="center">💎 𝗠𝗢𝗗𝗜𝗙𝗜𝗘𝗗 𝗕𝗬 𝗔Jmaul 💎</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=2500&pause=700&color=00F0FF&center=true&vCenter=true&width=750&lines=⚡+MULTI-DEVICE+MESSENGER+BOT;🔥+PREMIUM+AUTOMATION+SYSTEM;🧠+AI+POWERED+COMMANDS;🚀+ULTRA+FAST+PERFORMANCE;💎+ADVANCED+ADMIN+TOOLS" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,100:8A2BE2&height=120&section=header"/>
-</p>
-
-
-
-🌌 𝚂𝚝𝚊𝚝𝚜 𝙳𝚊𝚜𝚑𝚋𝚘𝚊𝚛𝚍
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=alvi-king&theme=tokyonight#gh-dark-mode-only" width="49%" />
-</p>
-
-
-📊 𝚁𝚎𝚙𝚘 𝙰𝚗𝚊𝚕𝚢𝚝𝚒𝚌𝚜
-
-<p align="center">
-  <img src="https://img.shields.io/github/stars/alvi-king/GOAT-BOT-V2?style=for-the-badge&logo=github"/>
-  <img src="https://img.shields.io/github/forks/alvi-king/GOAT-BOT-V2?style=for-the-badge&logo=github"/>
-  <img src="https://img.shields.io/github/repo-size/alvi-king/GOAT-BOT-V2?style=for-the-badge"/>
-  <img src="https://img.shields.io/github/last-commit/alvi-king/GOAT-BOT-V2?style=for-the-badge"/>
-</p>
-
-
-🧠 𝙱𝚘𝚝 𝚂𝚝𝚊𝚝𝚞𝚜
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Bot_Status-ONLINE-brightgreen?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/API-Running-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Uptime-24/7-success?style=for-the-badge"/>
-</p>
-
-
-📡 𝚂𝚎𝚛𝚟𝚎𝚛 𝙿𝚒𝚗𝚐
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Ping-20ms-brightgreen?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Latency-Low-success?style=for-the-badge"/>
-</p>
-
-
-📈 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢 𝙶𝚛𝚊𝚙𝚑
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alvi-king&theme=tokyo-night"/>
-</p>
-
-
-
-👁️ 𝚅𝚒𝚜𝚒𝚝𝚘𝚛𝚜
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=alvi-king&label=🔥+VISITORS&style=for-the-badge"/>
-</p>
-
-
-🎬 𝙿𝚛𝚎𝚟𝚒𝚎𝚠 𝚂𝚎𝚌𝚝𝚒𝚘𝚗
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="45%" />
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="45%" />
-</p>
-
-
-
-🚀 𝙳𝚎𝚙𝚕𝚘𝚢𝚖𝚎𝚗𝚝
-
 <div align="center">
 
-<a href="https://dashboard.heroku.com/new-app?template=https://github.com/alvi-king/GOAT-BOT-V2">
-<img src="https://www.herokucdn.com/deploy/button.svg"/>
-</a>
+<!-- TITLE BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:003399,100:00ccff&height=280&section=header&text=GOATBOT%20AJMAUL%2083&fontSize=70&fontColor=00ffff&fontAlignY=50&desc=Facebook%20Messenger%20Bot%20%F0%9F%A4%96&descAlignY=75&descSize=25&animation=twinkling" width="100%"/>
 
-<a href="https://repl.it/github/alvi-king/GOAT-BOT-V2">
-<img src="https://img.shields.io/badge/Deploy-Replit-black?style=for-the-badge&logo=replit"/>
-</a>
+<!-- MAIN LOGO -->
+<img src="https://i.imgur.com/vxxSpX8.jpeg" alt="AJ GoatBot 83" width="100%"/>
 
-<a href="https://railway.app/new">
-<img src="https://img.shields.io/badge/Deploy-Railway-black?style=for-the-badge&logo=railway"/>
-</a>
+<br/>
 
-<a href="https://dashboard.render.com">
-<img src="https://img.shields.io/badge/Deploy-Render-black?style=for-the-badge&logo=render"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=🤖+GoatBot+Ajmaul+83;⚡+Facebook+Messenger+Bot;🔥+Made+by+Ajmaul;🌑+Dark+%7C+Fast+%7C+Powerful" alt="Typing SVG" />
+
+<br/><br/>
+
+![Stars](https://img.shields.io/github/stars/mdajmaul/goatbot_ajmaul_83?style=for-the-badge&logo=github&color=ff69b4&labelColor=0d0d0d)
+![Forks](https://img.shields.io/github/forks/mdajmaul/goatbot_ajmaul_83?style=for-the-badge&logo=github&color=00ffff&labelColor=0d0d0d)
+![Size](https://img.shields.io/github/repo-size/mdajmaul/goatbot_ajmaul_83?style=for-the-badge&logo=github&color=bf00ff&labelColor=0d0d0d)
+![Updated](https://img.shields.io/github/last-commit/mdajmaul/goatbot_ajmaul_83?style=for-the-badge&logo=github&color=ffff00&labelColor=0d0d0d)
+
+<br/>
+
+![NodeJS](https://img.shields.io/badge/Node.js-20.x-00ff00?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=0d0d0d)
+![Facebook](https://img.shields.io/badge/Facebook-Messenger_Bot-1877F2?style=for-the-badge&logo=messenger&logoColor=white&labelColor=0d0d0d)
+![SQLite](https://img.shields.io/badge/Database-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=0d0d0d)
+![Status](https://img.shields.io/badge/Status-Online-00ff00?style=for-the-badge&logo=statuspage&logoColor=white&labelColor=0d0d0d)
+![Platform](https://img.shields.io/badge/Deploy-Railway-8B00FF?style=for-the-badge&logo=railway&logoColor=white&labelColor=0d0d0d)
+![Views](https://visitor-badge.laobi.icu/badge?page_id=mdajmaul.goatbot_ajmaul_83&left_color=0d0d0d&right_color=ff69b4&left_text=👁️%20Views)
 
 </div>
 
+---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00F0FF&height=100&section=header"/>
-</p>
+<div align="center">
 
-⚡ Advanced Features ⚡
+## ✨ Features
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=2500&pause=800&color=00F0FF&center=true&width=650&lines=AI+POWERED+COMMANDS;PREMIUM+SYSTEM+ENABLED;AUTO+RESTART+ACTIVE;DATABASE+SUPPORT+READY;LIVE+DASHBOARD+CONNECTED;ADVANCED+LOGGING+SYSTEM"/>
-</p>
+</div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/🤖_AI_COMMANDS-ENABLED-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/💎_PREMIUM_SYSTEM-ACTIVE-purple?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/🔄_AUTO_RESTART-ONLINE-green?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/🗄️_DATABASE-MongoDB_/_SQLite-orange?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/🚫_ANTI_REACT-SYSTEM-red?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/📊_LIVE_DASHBOARD-CONNECTED-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/📜_LOGGING-SYSTEM-yellow?style=for-the-badge"/>
-</p>
+```
+┌─────────────────────────────────────────────────────────┐
+│  ⚡ AUTO RESTART      → বট crash করলে auto restart হয়   │
+│  🛡️ ANTI LOGOUT       → Account logout protection       │
+│  💬 AUTO CHAT         → Human-like auto reply system    │
+│  🎯 150+ COMMANDS     → বিশাল command collection        │
+│  🏅 RANK SYSTEM       → User rank & XP system           │
+│  🤖 AI POWERED        → GPT, Gemini integration         │
+│  🎨 IMAGE GEN         → AI image generation             │
+│  🎵 MEDIA DOWNLOAD    → Video/Audio downloader          │
+│  👑 ADMIN PANEL       → Full group management           │
+│  🔒 ROLE SYSTEM       → Multi-level permission system   │
+│  📊 ECONOMY           → Balance, bet, daily reward      │
+│  🌐 MULTI LANGUAGE    → EN & BN support                 │
+└─────────────────────────────────────────────────────────┘
+```
 
+---
 
-🎯 Command System 🎯
+<div align="center">
+
+## 📋 Command Categories
+
+</div>
 
 <table align="center">
 <tr>
-<th>⚡ Command</th>
-<th>💡 Description</th>
+<td align="center">⚙️ <b>System</b></td>
+<td align="center">👑 <b>Owner</b></td>
+<td align="center">🛡️ <b>Admin</b></td>
+<td align="center">🎮 <b>Game</b></td>
 </tr>
-
-<tr><td><code>/help</code></td><td>📜 Show all commands</td></tr>
-<tr><td><code>/prefix</code></td><td>⚙️ Change bot prefix</td></tr>
-<tr><td><code>/premium request</code></td><td>💎 Request premium access</td></tr>
-<tr><td><code>/update</code></td><td>🚀 Update bot system</td></tr>
-
+<tr>
+<td align="center">help, prefix, info<br/>restart, reload</td>
+<td align="center">eval, shell, ban<br/>setadmin, restart</td>
+<td align="center">kick, lock, warn<br/>setname, setwelcome</td>
+<td align="center">bet, quiz, rank<br/>guessnumber</td>
+</tr>
+<tr>
+<td align="center">🤖 <b>AI</b></td>
+<td align="center">🎨 <b>Media</b></td>
+<td align="center">💰 <b>Economy</b></td>
+<td align="center">🔧 <b>Tools</b></td>
+</tr>
+<tr>
+<td align="center">gpt, gemini, claude<br/>imagen3, flux</td>
+<td align="center">ytb, video, manga<br/>imgur, drive</td>
+<td align="center">balance, daily<br/>transfer, balance</td>
+<td align="center">translate, weather<br/>qrcode, tempmail</td>
+</tr>
 </table>
 
+---
 
-❤️ ՏᑌᑭᑭOᖇTՏ ❤️
+<div align="center">
 
-<p align="center">
-  <a href="https://youtube.com/@SAUniqueBro">
-    <img src="https://img.shields.io/badge/▶️_YouTube-Subscribe-red?style=for-the-badge&logo=youtube"/>
-  </a>
-  <a href="https://www.facebook.com/profile.php?id=100001609058878">
-    <img src="https://img.shields.io/badge/📘_Facebook-Follow-1877F2?style=for-the-badge&logo=facebook"/>
-  </a>
-  <a href="https://t.me/MRALVIBRO">
-    <img src="https://img.shields.io/badge/✈️_Telegram-Join-26A5E4?style=for-the-badge&logo=telegram"/>
-  </a>
-  <a href="https://wa.me/966505748978">
-    <img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp"/>
-  </a>
-</p>
+## 🚀 Deploy
 
+</div>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00F0FF&height=140&section=footer"/>
-</p>
+### ① Railway তে Deploy করো
 
-<h2 align="center">💎 GOAT BOT V2</h2>
+```bash
+# Step 1 — Fork করো
+https://github.com/mdajmaul/goatbot_ajmaul_83
 
-<p align="center">
-Made with ❤️ by <b>ALVI-KING</b><br><br>
-🚀 <b>Release:</b> 23 Feb 2026 <br><br>
-⭐ <b>Don't forget to star the repo!</b>
-</p>
+# Step 2 — Railway এ যাও
+https://railway.app
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F0FF,100:8A2BE2&height=5&section=footer"/>
-</p>
+# Step 3 — GitHub repo connect করো
+
+# Step 4 — account.txt এ cookie দাও
+```
+
+### ② Cookie বের করো (Kiwi Browser)
+
+```
+1. Kiwi Browser এ m.facebook.com খোলো
+2. Login করো
+3. Extension → Cookie Editor → Export করো
+4. account.txt তে paste করো
+```
+
+### ③ Environment Variables
+
+```env
+PORT=8080
+NODE_ENV=production
+```
+
+---
+
+<div align="center">
+
+## 📁 Project Structure
+
+</div>
+
+```
+goatbot_ajmaul_83/
+├── 📄 index.js              ← Main entry point
+├── 📄 package.json          ← Dependencies
+├── 📄 account.txt           ← Facebook cookie
+├── 📄 config.json           ← Bot configuration
+├── 📁 bot/
+│   ├── 📁 handler/          ← Core handlers
+│   └── 📁 login/            ← Login system
+├── 📁 scripts/
+│   ├── 📁 cmds/             ← 150+ commands
+│   └── 📁 events/           ← Event handlers
+└── 📁 database/             ← SQLite database
+```
+
+---
+
+<div align="center">
+
+## ⚙️ Configuration
+
+</div>
+
+```json
+{
+  "name": "GoatBot Ajmaul 83",
+  "prefix": ".",
+  "adminBot": ["YOUR_FACEBOOK_ID"],
+  "language": "en",
+  "autoRestart": true,
+  "antiInbox": false,
+  "database": {
+    "type": "sqlite"
+  }
+}
+```
+
+---
+
+<div align="center">
+
+## 👤 Author
+
+<br/>
+
+<a href="https://www.facebook.com/profile.php?id=61590001468913">
+  <img src="https://img.shields.io/badge/Facebook-Ajmaul-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=0d0d0d"/>
+</a>
+&nbsp;
+<a href="https://github.com/mdajmaul">
+  <img src="https://img.shields.io/badge/GitHub-mdajmaul-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0d0d"/>
+</a>
+&nbsp;
+<a href="https://github.com/mdajmaul/goatbot_ajmaul_83">
+  <img src="https://img.shields.io/badge/Repo-goatbot_ajmaul_83-00ffff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0d0d"/>
+</a>
+
+<br/><br/>
+
+```
+╔══════════════════════════════════════════╗
+║                                          ║
+║   Made with 💙 by  A J M A U L          ║
+║   GoatBot V2 Fork — Dark Edition         ║
+║   Credit: NTKhang (Original Author)      ║
+║                                          ║
+║   ⚠️  Do not sell this source code       ║
+║                                          ║
+╚══════════════════════════════════════════╝
+```
+
+<br/>
+
+<!-- FOOTER WAVE -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ccff,50:003399,100:0d0d0d&height=100&section=footer" width="100%"/>
+
+</div>
